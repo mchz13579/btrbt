@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6281235948571",
+	"ownerNumberr": "6281235948571",
+	"cr": "@PhinixStoreོ",
+	"ownername": "PhinixStoreོ",
+	"botname":"BTR-BOT",
+	"thumb":"thumbnail",
+	"thumbnail":"thumbnail",
+	"fakethumb":"thumbnail", 
+	"donasi":"",
+	"fake": " 「  BTR-BOT  」\nCreated By @PhinixStore"
+}
