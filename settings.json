@@ -4,7 +4,7 @@
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": true,
+	"anticall": false,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
 	"prefix": ".",
@@ -14,9 +14,9 @@
 	"cr": "@PhinixStoreོ",
 	"ownername": "PhinixStoreོ",
 	"botname":"BTR-BOT",
-	"thumb":"thumbnail",
-	"thumbnail":"thumbnail",
-	"fakethumb":"thumbnail", 
+	"thumb":"thumbnail.png",
+	"thumbnail":"thumbnail.png",
+	"fakethumb":"thumbnail.png", 
 	"donasi":"",
 	"fake": " 「  BTR-BOT  」\nCreated By @PhinixStore"
 }
